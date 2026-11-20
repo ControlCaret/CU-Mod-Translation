@@ -1,4 +1,6 @@
 {
+    "QoL\nSettings": "QoL\n설정",
+
     "Discord RPC": "디스코드 RPC",
     "Rich Presence integration.": "Rich Presence 연동.",
     "Line of Sight Fix": "시야 수정",
@@ -27,6 +29,21 @@
     "Automatically saves the game at regular intervals.": "일정 간격으로 게임을 자동 저장합니다.",
     "In-depth Saving": "상세 저장",
     "Saves world changes*. Experimental.": "월드의 변경 사항을 저장합니다*. 실험적인 기능입니다.",
+
+    "<color=#FFEA00>Discord RPC</color>": "<color=#FFEA00>디스코드 RPC</color>",
+    "<color=#FFEA00>Line of Sight Fix</color>": "<color=#FFEA00>시야 수정</color>",
+    "<color=#FFEA00>Bulk Crafting</color>": "<color=#FFEA00>일괄 제작</color>",
+    "<color=#FFEA00>Crafting Preview</color>": "<color=#FFEA00>제작 미리보기</color>",
+    "<color=#FFEA00>Container Stacking</color>": "<color=#FFEA00>보관함 내 물건 겹치기</color>",
+    "<color=#FFEA00>Sort Button</color>": "<color=#FFEA00>정렬 버튼</color>",
+    "<color=#FFEA00>Quick Stash</color>": "<color=#FFEA00>빠른 보관</color>",
+    "<color=#FFEA00>Inventory Keybinds</color>": "<color=#FFEA00>인벤토리 단축키</color>",
+    "<color=#FFEA00>Water Physics</color>": "<color=#FFEA00>물 물리 효과</color>",
+    "<color=#FFEA00>Audio Safety</color>": "<color=#FFEA00>청각 보호</color>",
+    "<color=#FFEA00>Save Menu</color>": "<color=#FFEA00>저장 메뉴</color>",
+    "<color=#FFEA00>Timer</color>": "<color=#FFEA00>타이머</color>",
+    "<color=#FFEA00>Autosave</color>": "<color=#FFEA00>자동 저장</color>",
+    "<color=#FFEA00>In-depth Saving</color>": "<color=#FFEA00>상세 저장</color>",
 
     "Intensity": "조명 밝기",
     "Controls the maximum brightness of in-world lights. Similar to the V6 brightness slider (with a higher range).": "월드 내 조명의 최대 밝기를 조절합니다. V6의 밝기 슬라이더와 비슷하지만 조절 범위가 더 넓습니다.",
@@ -70,17 +87,17 @@
     "Allows achievements to keep unlocking after using console/cheat commands, instead of disabling them for the rest of the session.": "콘솔/치트 명령어를 사용해도 해당 세션의 남은 시간 동안 도전 과제를 비활성화하지 않고 계속 달성할 수 있도록 합니다.",
     "Faster minigames": "빠른 미니게임",
     "Makes lockpicking faster and shortens keypad codes to 5-9 digits.": "자물쇠 따기를 더 빠르게 하고 키패드 암호를 5~9자리로 줄입니다.",
-    "Skill point allocation": "스킬 포인트 할당",
-    "Enables the QoL skill allocation adjustments for starting stats.": "시작 능력치에 QoL 스킬 할당 조정을 활성화합니다.",
+    "Skill point allocation": "시작 능력치 조정",
+    "Enables the QoL skill allocation adjustments for starting stats.": "QoL의 시작 능력치 조정 기능을 활성화합니다.",
     "Use best tool by efficiency": "효율이 가장 높은 도구 사용",
     "Crafting selects the most efficient tool rather than the first one found.": "제작 시 처음 발견된 도구 대신 효율이 가장 높은 도구를 선택합니다.",
     "Additional Recipe Options": "추가 제작법 옵션",
-    "Shows the bookmark and uncrafted recipe buttons in the crafting menu.": "제작 메뉴에 즐겨찾기 버튼과 미제작 제작법 버튼을 표시합니다.",
+    "Shows the bookmark and uncrafted recipe buttons in the crafting menu.": "제작 메뉴에 즐겨찾기 버튼과 아직 만들어보지 않은 제작법 버튼을 표시합니다.",
     "Container Scroll": "보관함 스크롤",
     "Adds scroll wheel support to containers.": "보관함에 마우스 휠 스크롤 기능을 추가합니다.",
     "Automatically color-code items by type": "종류별로 물건에 자동 색상 지정",
     "Tints inventory slots a light color based on item category (tool, medicine, food, etc.). Manual color-codes and favourites keep their color.": "물건의 분류(도구, 의약품, 음식 등)에 따라 인벤토리 칸에 옅은 색을 입힙니다. 수동으로 지정한 색상과 즐겨찾기의 색상은 유지됩니다.",
-    "Prevent Creature Griefing": "생물 파괴 방지",
+    "Prevent Creature Griefing": "생물의 파괴 행위 방지",
     "Prevents certain creatures from causing world damage, excluding the elder thornback.": "엘더 가시거미를 제외한 특정 생물이 월드에 피해를 주지 못하도록 합니다.",
     "Off": "끄기",
     "Items": "물건",
@@ -89,7 +106,7 @@
     "Starting STR": "시작 신체",
     "Starting RES": "시작 저항",
     "Starting INT": "시작 지성",
-    "Sets the starting stat value used by the QoL skill allocation patch. Leave blank to use the character's default stats.": "QoL 스킬 배분 패치에 사용할 시작 능력치 값을 설정합니다. 비워 두면 캐릭터의 기본 능력치를 사용합니다.",
+    "Sets the starting stat value used by the QoL skill allocation patch. Leave blank to use the character's default stats.": "QoL의 시작 능력치 조정 기능에 사용할 값을 설정합니다. 비워 두면 캐릭터의 기본 능력치를 사용합니다.",
     "Individual Entity Density": "개별 개체 밀도",
     "Adjust any entity's spawn multiplier.": "특정 개체의 생성 배율을 조절합니다.",
     "Individual Structure Density": "개별 구조물 밀도",
@@ -116,6 +133,11 @@
     "Unsightly": "흉한",
     "Warm": "따뜻한",
 
+    "Stack Liquid Containers": "액체 보관함 겹치기",
+    "Groups same-type bottles and canteens into a single container slot even when their fill levels differ. Hover the stack to reveal each container.": "같은 종류의 병과 수통을 내용물의 양이 달라도 하나의 보관함 칸에 묶어 표시합니다. 묶음에 마우스를 올리면 각 보관함이 표시됩니다.",
+    "Hold Key to Expand Stacks": "키를 누르고 있는 동안 묶음 펼치기",
+    "Adds a checkbox and a keybind. With the checkbox on, a stack only opens while you hold that key instead of on plain hover.": "체크박스와 단축키를 추가합니다. 체크하면 마우스를 올리는 것만으로는 묶음이 펼쳐지지 않고, 해당 키를 누르고 있는 동안에만 펼쳐집니다.",
+
     "Quickly move the item under the cursor into an available inventory slot, wearable slot, or carried container.": "커서 아래의 물건을 사용 가능한 인벤토리 칸, 착용 칸 또는 소지 중인 보관함으로 빠르게 옮깁니다.",
     "Inventory Interaction Modifier": "인벤토리 상호작용 보조키",
     "Hold while dragging items to swap containers or move compatible tools and batteries into containers.": "이 키를 누른 채 물건을 드래그하면 보관함을 교체하거나 호환되는 도구와 배터리를 보관함 안으로 옮길 수 있습니다.",
@@ -127,7 +149,7 @@
     "Select Language...": "언어 선택...",
     "Connection Error": "연결 오류",
     "Failed to reach GitHub": "GitHub에 연결하지 못했습니다",
-    " (Installed)": " (설치됨)",
+    "(Installed)": "(설치됨)",
 
     "Search...": "검색...",
     "Mods": "모드",
@@ -137,13 +159,18 @@
     "Open Nexus": "Nexus 열기",
 
     "Mod Presets {0}": "모드 프리셋 {0}",
+    "Mod Presets 1": "모드 프리셋 1",
+    "Mod Presets 2": "모드 프리셋 2",
+    "Mod Presets 3": "모드 프리셋 3",
     "Click to load, right click to save current list as preset": "클릭하면 불러오고, 우클릭하면 현재 목록을 프리셋으로 저장합니다",
 
     "World Size": "월드 크기",
     "Layer chunks (width)": "층 청크 수 (가로)",
     "Layer chunks (height)": "층 청크 수 (세로)",
-    "Number of 64-tile chunks per layer for this run. Leave empty for the normal world size. Clamped to {0}-{1}x normal.": "이번 탐사에서 층마다 사용할 64칸 단위 청크의 수입니다. 비워 두면 기본 월드 크기를 사용합니다. 기본 크기의 {0}~{1}배 범위로 제한됩니다.",
     "Default ({0})": "기본값 ({0})",
+    "Default (16)": "기본값 (16)",
+    "Number of 64-tile chunks per layer for this run. Leave empty for the normal world size. Clamped to {0}-{1}x normal.": "이번 탐사에서 층마다 사용할 64칸 단위 청크의 수입니다. 비워 두면 기본 월드 크기를 사용합니다. 기본 크기의 {0}~{1}배 범위로 제한됩니다.",
+    "Number of 64-tile chunks per layer for this run. Leave empty for the normal world size. Clamped to 4-4x normal.": "이번 탐사에서 층마다 사용할 64칸 단위 청크의 수입니다. 비워 두면 기본 월드 크기를 사용합니다. 기본 크기의 4~4배 범위로 제한됩니다.",
 
     "Quickstart": "빠른 시작",
     "Starts a new run on the chosen layer, with weighted random equipment and experience scaled to the depth.": "선택한 층에서 새 탐사를 시작합니다. 장비는 가중치를 적용해 무작위로 지급하며, 경험치는 깊이에 맞춰 조정됩니다.",
@@ -157,6 +184,35 @@
     "8. Crystalline hollow": "8. 수정 공동",
     "9. Geothermal vents": "9. 지열 분출지",
     "10. WHERE WE MUST REACH": "10. 우리들의 목적지",
-    "11. CRIMSON ASCENT": "11. 진홍빛 상승"
+    "11. CRIMSON ASCENT": "11. 진홍빛 상승",
+
+    "Sort": "정렬",
+    "Packs loose items into the lightest containers. Hold Shift to also sort hands and mouth.": "보관함 밖의 물건을 가장 가벼운 보관함에 넣습니다. Shift 키를 누르면 손과 입에 있는 물건도 함께 정렬합니다.",
+
+    "Crafting": "제작",
+    "Crafting {0}x": "제작 x{0}",
+    "Uncrafted only": "만들어보지 않은 물건만 표시",
+    "Displays only items that have not been crafted before.": "이전에 제작한 적 없는 물건만 표시합니다.",
+    "Bookmark": "즐겨찾기",
+    "Click to bookmark this recipe. Bookmarked recipes appear at the top of the list.": "클릭하면 이 제작법을 즐겨찾기에 추가합니다. 즐겨찾기에 추가한 제작법은 목록 맨 위에 표시됩니다.",
+    "Click to unbookmark this recipe. Bookmarked recipes appear at the top of the list.": "클릭하면 이 제작법을 즐겨찾기에서 해제합니다. 즐겨찾기에 추가한 제작법은 목록 맨 위에 표시됩니다.",
+
+    "SAVE SLOTS": "저장 슬롯",
+    "Slot {0}": "슬롯 {0}",
+    "Deep": "깊이",
+    "run time": "플레이 시간",
+    "Load Save": "저장 불러오기",
+    "Save": "저장",
+    "Load": "불러오기",
+    "Delete": "삭제",
+    "Rename": "이름 변경",
+    "Click and type to rename this slot.": "클릭한 뒤 입력하여 이 슬롯의 이름을 변경합니다.",
+
+    "There's really no hard limit to how long these pause menu names can be and to be quite honest I'm rather curious to see how far we can go. Adolphus W. Green (1844–1917) started as the Principal of the Groton School in 1864. By 1865, he became second assistant librarian - oh wait nevermind there' a limit.": "이 일시 정지 메뉴 문구의 길이에는 딱히 제한이 없고, 솔직히 어디까지 길게 쓸 수 있는지 꽤 궁금하네. 아돌푸스 W. 그린(1844–1917)은 1864년에 그로튼 학교의 교장으로 일을 시작했어. 1865년에는 제2보조 사서가 되었는데… 아, 잠깐. 제한이 있네.",
+    "Everything will be okay.": "다 괜찮아질 거야.",
+    "Pause and hydrate. It'll help.": "잠깐 쉬고 물 좀 마셔. 도움이 될 거야.",
+    "You're almost there. Just a couple more steps.": "거의 다 왔어. 몇 걸음만 더 가면 돼.",
+
+    "Please restart the game for QoL module settings changes to take effect!": "QoL 모듈 설정 변경 사항을 적용하려면 게임을 재시작하세요!"
 
 }
