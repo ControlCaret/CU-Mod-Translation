@@ -6,7 +6,7 @@ Casualties: Unknown의 모드 한국어 번역을 모아 둔 저장소입니다.
 
 | 모드 | 버전 | 번역 파일 |
 | --- | --- | --- |
-| [QoL Unknown](https://github.com/jimmyking9999999/QoL-Unknown) | v1.1.5 | [KR-Qol.Unknown.json](https://github.com/ControlCaret/CU-Mod-Translation/blob/main/KR-Qol.Unknown.json) |
+| [QoL Unknown](https://github.com/jimmyking9999999/QoL-Unknown) | v1.1.5 | [KR-QoL.Unknown.json](https://github.com/ControlCaret/CU-Mod-Translation/blob/main/KR-QoL.Unknown.json) |
 
 ## 적용 방법
 
@@ -30,7 +30,7 @@ Casualties: Unknown의 모드 한국어 번역을 모아 둔 저장소입니다.
       └─ plugins/
          ├─ MKL.dll
          └─ Translations/
-            └─ KR-Qol.Unknown.json
+            └─ KR-QoL.Unknown.json
    ```
 
 ## 피드백
