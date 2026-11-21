@@ -7,6 +7,7 @@ Casualties: Unknown의 모드 한국어 번역을 모아 둔 저장소입니다.
 | 모드 | 버전 | 번역 파일 |
 | --- | --- | --- |
 | [QoL Unknown](https://github.com/jimmyking9999999/QoL-Unknown) | v1.1.5 | [KR-QoL.Unknown.json](https://github.com/ControlCaret/CU-Mod-Translation/blob/main/KR-QoL.Unknown.json) |
+| [Comforts Unknown - Performance](http://www.nexusmods.com/scavprototype/mods/925) | v0.1.5 | [KR-ComfortsUnknown.Performance.json](https://github.com/ControlCaret/CU-Mod-Translation/blob/main/KR-ComfortsUnknown.Performance.json) |
 
 ## 적용 방법
 
@@ -22,7 +23,7 @@ Casualties: Unknown의 모드 한국어 번역을 모아 둔 저장소입니다.
          └─ Translations/
    ```
 
-3. **모드 번역 JSON 파일을 다운로드해 `Translations` 폴더에 넣습니다.** 원하는 모드 번역 파일 링크를 열고 **Download raw file**로 다운로드합니다. QoL Unknown 번역을 적용하는 경우 아래와 같이 배치합니다.
+3. **모드 번역 JSON 파일을 다운로드해 `Translations` 폴더에 넣습니다.** 원하는 모드 번역 파일 링크를 열고 **Download raw file**로 다운로드합니다. 여러 모드의 번역을 함께 적용하려면 각 모드의 번역 JSON 파일을 모두 `Translations` 폴더에 넣으면 됩니다. QoL Unknown 번역을 적용하는 경우 아래와 같이 배치합니다.
 
    ```text
    Casualties Unknown/
@@ -32,6 +33,10 @@ Casualties: Unknown의 모드 한국어 번역을 모아 둔 저장소입니다.
          └─ Translations/
             └─ KR-QoL.Unknown.json
    ```
+
+## 참고 사항
+
+- Comforts Unknown - Performance 모드의 일부 문구가 영어로 표시될 수 있습니다.
 
 ## 피드백
 
